@@ -3,7 +3,7 @@ Bu repo [kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 ## Installation
 Öncelikle projeyi klonlayın.
 ```url
-https://github.com/faultx/kodluyoruzilrepo.git
+https://github.com/faultx/kodluyoruzilkrepo.git
 ```
 ## Usage
 Projeyi klonladıktan sonra Visual Studio Code programında açınız.
